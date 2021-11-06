@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>فرم ثبت نم دانشجویی دانشگاه آزاد</title>
+
+    </head>
+    <body dir="rtl">
+        <label>نام</label>
+        <input type="text">
+        <br>
+        <br>
+        <label>نام خانوادگی</label>
+        <input type="text">
+        <br>
+        <br>
+        <label>شماره دانشجویی</label>
+        <input type="number">
+        <br>
+        <br>
+        <lable> مقطع قبولی</lable>
+        <br>
+        <label>کارشناسی ناپیوسته</label>
+        <input type="radio" name="کارشناسی ناپیوسته">
+        <label>کارشناسی پیوسته</label>
+        <input type="radio" name="کارشناسی ناپیوسته">
+        <label>کارشناسی ارشد</label>
+        <input type="radio" name="کارشناسی ناپیوسته">
+        <label>دکترا</label>
+        <input type="radio" name="کارشناسی ناپیوسته">
+        <br>
+        <br>
+        <label>جنسیت خود را انتخاب کنید :</label>
+        <br>
+        <label>مرد</label>
+        <input type="radio" name="مرد">
+        <label>زن</label>
+        <input type="radio" name="مرد">
+        <br>
+        <br>
+        <label>ایمیل خود را وارد کنید(اختیاری) :</label>
+        <input type="text">
+        <br>
+        <br>
+        <label>شماره تلفن همراه(ضروری) :</label>
+        <input type="number">
+        <br>
+        <br>
+        <label>عکس خود را آپلود کنید</label>
+        <input type="file">
+        <br>
+        <br>
+        <label>عکس کارت ملی</label>
+        <input type="file">
+        <br>
+        <br>
+        <label>عکس آخرین مدرک تحصیلی</label>
+        <input type="file">
+
+
+    </body>
+    
+</html>
